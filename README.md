@@ -1,74 +1,126 @@
-# Ouroboros README
+# 👋 Olá!
 
-## Descrição
+Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reais. Meu foco é no desenvolvimento de ferramentas para educação, com a missão de democratizar o acesso a tecnologias de alta qualidade.
 
-O Ouroboros é uma aplicação completa para planejamento de estudos, projetada para ajudar estudantes a organizar seus horários, acompanhar o progresso e gerenciar revisões de forma eficaz. A plataforma é gratuita, acessível e construída com a missão de democratizar o acesso a ferramentas de ensino de alta qualidade.
-
-## Projetos Principais
-
-### Ouroboros (Desktop & Web)
-
-Uma aplicação completa para planejamento de estudos com funcionalidades como:
-
-- Planejamento de Estudos por Ciclos
-- Registro de Sessões de Estudo
-- Estatísticas de Desempenho
-- Gerenciamento de Revisões
-- Acompanhamento de Simulados
-- Cronômetro Integrado
-
-**Tecnologias:** Next.js, TypeScript, Tailwind CSS, Radix UI, Chart.js, dnd-kit, Electron, Docker.
-
-[Acesse o repositório](https://github.com/grebsu/Ouroboros)
-
-### Ouroboros Mobile (Android)
-
-A versão mobile do Ouroboros, levando a mesma missão social para a plataforma Android.
-
-**Funcionalidades:**
-
-- Importação Inteligente de Editais
-- Ciclo de Estudos Personalizado
-- Mentoria Algorítmica
-- Estatísticas Detalhadas
-
-**Tecnologias:** Flutter
-
-[Acesse o repositório](https://github.com/grebsu/ouroboros-mobile)
-
-## Sobre Mim
-
-Sou um desenvolvedor focado em criar ferramentas que resolvem problemas reais, especialmente na área da educação. Acredito que a tecnologia deve ser acessível a todos, e é por isso que dedico meu tempo a projetos como o Ouroboros.
-
-Além de programar, sou "concurseiro", o que me dá uma perspectiva única sobre as necessidades dos estudantes e me motiva a continuar desenvolvendo soluções que façam a diferença.
+<p align="left">
+  <a href="https://www.linkedin.com/in/glebson-oliveira-3a93692a5/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:glebson.olvr@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"" />
+  </a>
+  <a href="https://youtube.com/@glebsonoliveira5875?si=hzTsmuIx9nfE_9u1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" alt="youtube" />
+  </a>
+</p>
 
 ## Metas
 
-- Sincronizar as versões mobile e desktop do Ouroboros.
-- Contribuir para mais projetos de código aberto.
-- Continuar aprendendo e aprimorando minhas habilidades em desenvolvimento mobile e web.
+- Sincronizar as versões **mobile** e **desktop** do **Ouroboros** 🔄
+- Contribuir para projetos **open-source** 🌐
+- Aprimorar minhas habilidades em desenvolvimento **mobile** e **web** 🚀
+- Obter certificações em **Cloud** ☁️
 
-## Tech Stack
+## Curiosidades
 
-### Frontend
-- Next.js
-- TypeScript
-- Tailwind CSS
-- Radix UI
-- Chart.js
+- Sou **concurseiro**, o que me dá uma perspectiva única sobre as necessidades dos estudantes.
+- Adoro um bom café ☕.
 
-### Mobile
-- Flutter
+# Projetos
 
-### Desktop
-- Electron
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/grebsu/Ouroboros">
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=grebsu&repo=Ouroboros&theme=dark&icon_color=007fff" />
+      </a>
+    </td>
+    <td width="35%" align="center">
+      <a href="https://github.com/grebsu/Ouroboros">
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,electron,docker" alt="Tech Stack Badges" />
+      </a>
+    </td>
+    <td width="15%" align="center">
+      <a href="https://github.com/grebsu/Ouroboros">
+          <img src="https://raw.githubusercontent.com/grebsu/Ouroboros/main/public/logo.png" alt="Ouroboros Image" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/grebsu/ouroboros-mobile">
+        <img src="https://github-stats-rho-seven.vercel.app/api/pin/?username=grebsu&repo=ouroboros-mobile&theme=dark&icon_color=007fff" />
+      </a>
+    </td>
+    <td width="35%" align="center">
+      <a href="https://github.com/grebsu/ouroboros-mobile">
+        <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Tech Stack Badges" />
+      </a>
+    </td>
+    <td width="15%" align="center">
+      <a href="https://github.com/grebsu/ouroboros-mobile">
+          <img src="https://raw.githubusercontent.com/grebsu/ouroboros-mobile/main/assets/icon/icon.png" alt="Ouroboros Mobile Image" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### Backend
-- Next.js (API Routes)
+# Tech Stack
 
-### DevOps
-- Docker
+## Frontend
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" />
+  </a>
+</p>
 
-## Contato
+## Mobile
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  </a>
+</p>
 
-Você pode me encontrar no [YouTube](https://youtube.com/@glebsonoliveira5875?si=hzTsmuIx9nfE_9u1) e [LinkedIn](https://www.linkedin.com/in/glebson-oliveira-3a93692a5/).
+## Desktop
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=electron" />
+  </a>
+</p>
+
+## Backend
+
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs,py" />
+  </a>
+</p>
+
+## DevOps & Infraestrutura
+
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=docker,linux" />
+  </a>
+</p>
+
+## Ferramentas
+  
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/grebsu/grebsu/output/github-contribution-grid-snake-dark.svg" title="🐍 These commits updates every 5 days!" alt="snake" />
+   </a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img align="center" src="https://github-stats-rho-seven.vercel.app/api?username=grebsu&theme=dark&show_icons=true&icon_color=4493f7&show=prs_merged,prs_merged_percentage&hide=contribs,issues" alt="grebsu GitHub stats" />
+    <img align="center" src="https://github-stats-rho-seven.vercel.app/api/top-langs/?username=grebsu&size_weight=0.5&count_weight=0.5&theme=dark" alt="Top Langs" />
+  </a>  
+</p>
