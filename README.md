@@ -70,45 +70,29 @@ Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reai
 ## Frontend
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind" />
-  </a>
-</p>
-
-## Mobile
-<p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=flutter,dart" />
-  </a>
-</p>
-
-## Desktop
-<p align="left">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=electron" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,flutter,dart,html,css" />
   </a>
 </p>
 
 ## Backend
-
 <p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=nodejs,py" />
   </a>
 </p>
 
-## DevOps & Infraestrutura
-
+## DevOps & Infrastructure
 <p align="left">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=docker,linux" />
   </a>
 </p>
 
-## Ferramentas
+## Tools
   
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,electron,npm" />
   </a>
 </p>
 
