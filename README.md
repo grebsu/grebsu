@@ -114,7 +114,7 @@ Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reai
 
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/grebsu/grebsu/output/github-contribution-grid-snake-dark.svg" title="🐍 These commits updates every 5 days!" alt="snake" />
+    <img src="https://raw.githubusercontent.com/grebsu/grebsu/output/dist/github-contribution-grid-snake-dark.svg" title="🐍 These commits updates every 5 days!" alt="snake" />
    </a>
 </p>
 
