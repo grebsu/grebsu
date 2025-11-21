@@ -42,7 +42,7 @@ Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reai
     </td>
     <td width="15%" align="center">
       <a href="https://github.com/grebsu/Ouroboros">
-          <img src="https://raw.githubusercontent.com/grebsu/Ouroboros/main/public/logo.png" alt="Ouroboros Image" />
+          <img src="https://raw.githubusercontent.com/grebsu/Ouroboros/main/public/logo.svg" alt="Ouroboros Image" />
       </a>
     </td>
   </tr>
@@ -59,7 +59,7 @@ Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reai
     </td>
     <td width="15%" align="center">
       <a href="https://github.com/grebsu/ouroboros-mobile">
-          <img src="https://raw.githubusercontent.com/grebsu/ouroboros-mobile/main/assets/icon/icon.png" alt="Ouroboros Mobile Image" />
+          <img src="https://raw.githubusercontent.com/grebsu/ouroboros-mobile/main/logo/logo.png" alt="Ouroboros Mobile Image" />
       </a>
     </td>
   </tr>
