@@ -14,7 +14,7 @@ i'm a Brazilian Full-Stack developer, focusing on creating and improving Open So
   </a>
 </p>
 
-## 🎯 Goals & Ambitions
+## Goals & Ambitions
 
 * **Career Focus:** Land an **international** job as a **Junior Full-Stack Developer** 💻.
 * **Public Exam Preparation:** Achieve approval for the **Auditor Fiscal** (Tax Auditor) public service position, utilizing my technical background to master the required IT knowledge areas 📜.
@@ -24,11 +24,11 @@ i'm a Brazilian Full-Stack developer, focusing on creating and improving Open So
 * **Cybersecurity Certification:** Obtain key certifications in **Cyber Security** 🔒.
 ---
 
-## 💡 Personal Insights
+## Personal Insights
 
 * **Student Perspective:** My experience as a **"concurseiro"** (a dedicated student focused on high-stakes competitive exams) offers a **unique perspective** on the needs and challenges of high-performance learning.
 
-
+---
 
 # Projects
 
