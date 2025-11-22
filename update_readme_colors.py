@@ -4,7 +4,7 @@ from urllib.parse import urlparse, urlunparse, parse_qs, urlencode
 from typing import List
 
 # Define the pattern to find the specific GitHub stats URLs
-URL_PATTERN = r'src="(https://github-stats-rho-seven\.vercel\.app/api/pin/.*?)"'
+URL_PATTERN = r'src="(https://github-stats-rho-seven.vercel.app/api/pin/.*?)"'
 
 # Define the colors for the rainbow pattern (hex codes without '#')
 RAINBOW_COLORS = [
