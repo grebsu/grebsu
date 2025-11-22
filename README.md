@@ -9,9 +9,6 @@ i'm a Brazilian Full-Stack developer, focusing on creating and improving Open So
   <a href="mailto:glebson.olvr@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"" />
   </a>
-  <a href="https://youtube.com/@glebsonoliveira5875?si=hzTsmuIx9nfE_9u1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="youtube" />
-  </a>
 </p>
 
 ## Goals & Ambitions
@@ -103,7 +100,7 @@ i'm a Brazilian Full-Stack developer, focusing on creating and improving Open So
   
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,figma,electron,npm,blender,bash" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,figma,electron,npm,ps,illustrator,blender,bash" />
   </a>
 </p>
 
