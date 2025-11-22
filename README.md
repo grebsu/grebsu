@@ -1,6 +1,6 @@
-# 👋 Olá!
+# 👋 yo!
 
-Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reais. Meu foco é no desenvolvimento de ferramentas para educação, com a missão de democratizar o acesso a tecnologias de alta qualidade.
+i'm a Brazilian Full-Stack developer, focusing on creating and improving Open Source solutions. My work is guided by the mission of generating Social Impact through accessible and functional code.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/glebson-oliveira-3a93692a5/" target="_blank">
@@ -14,19 +14,23 @@ Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reai
   </a>
 </p>
 
-## Metas
+## 🎯 Goals & Ambitions
 
-- Sincronizar as versões **mobile** e **desktop** do **Ouroboros** 🔄
-- Contribuir para projetos **open-source** 🌐
-- Aprimorar minhas habilidades em desenvolvimento **mobile** e **web** 🚀
-- Obter certificações em **Cloud** ☁️
+* **Career Focus:** Land an **international** job as a **Junior Full-Stack Developer** 💻.
+* **Public Exam Preparation:** Achieve approval for the **Auditor Fiscal** (Tax Auditor) public service position, utilizing my technical background to master the required IT knowledge areas 📜.
+* **Platform Synchronization:** Finalize the complete synchronization between the **mobile and desktop** versions of the **Ouroboros** project 🔄.
+* **Open Source Contribution:** Actively contribute to relevant **open-source projects** 🌐.
+* **Full-Stack Skill Enhancement:** Significantly improve my **mobile and web** (full-stack) development skills 🚀.
+* **Cybersecurity Certification:** Obtain key certifications in **Cyber Security** 🔒.
+---
 
-## Curiosidades
+## 💡 Personal Insights
 
-- Sou **concurseiro**, o que me dá uma perspectiva única sobre as necessidades dos estudantes.
-- Adoro um bom café ☕.
+* **Student Perspective:** My experience as a **"concurseiro"** (a dedicated student focused on high-stakes competitive exams) offers a **unique perspective** on the needs and challenges of high-performance learning.
 
-# Projetos
+
+
+# Projects
 
 <table align="center">
   <tr>
@@ -37,7 +41,7 @@ Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reai
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/grebsu/Ouroboros">
-          <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,electron,docker,chartjs,radix" alt="Tech Stack Badges" />
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,electron,docker" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
@@ -91,7 +95,7 @@ Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reai
 ## DevOps & Infrastructure
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=docker,linux" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,windows,Android" />
   </a>
 </p>
 
@@ -99,7 +103,7 @@ Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reai
   
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,electron,npm,eslint,gimp,bash,blender,inkscape" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,figma,electron,npm,blender,bash" />
   </a>
 </p>
 
