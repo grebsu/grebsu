@@ -37,7 +37,7 @@ Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reai
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/grebsu/Ouroboros">
-          <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,electron,docker" alt="Tech Stack Badges" />
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,electron,docker,chartjs,radix,nextauth,postgresql,eslint" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
@@ -54,7 +54,7 @@ Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reai
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/grebsu/ouroboros-mobile">
-        <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Tech Stack Badges" />
+        <img src="https://skillicons.dev/icons?i=flutter,dart,sqlite" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
@@ -70,14 +70,21 @@ Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reai
 ## Frontend
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,flutter,dart,html,css" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,flutter,dart,html,css,chartjs,radix" />
   </a>
 </p>
 
 ## Backend
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,py" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,nextauth" />
+  </a>
+</p>
+
+## Database
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=sqlite,postgresql" />
   </a>
 </p>
 
@@ -92,7 +99,7 @@ Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reai
   
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,electron,npm" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,electron,npm,eslint,gimp,bash,blender,inkscape" />
   </a>
 </p>
 
