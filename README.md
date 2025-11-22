@@ -37,7 +37,7 @@ Sou um desenvolvedor apaixonado por criar soluções que resolvem problemas reai
     </td>
     <td width="35%" align="center">
       <a href="https://github.com/grebsu/Ouroboros">
-          <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,electron,docker,chartjs,radix,nextauth,postgresql,eslint" alt="Tech Stack Badges" />
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,electron,docker,chartjs,radix" alt="Tech Stack Badges" />
       </a>
     </td>
     <td width="15%" align="center">
