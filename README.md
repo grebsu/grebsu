@@ -92,9 +92,11 @@ i'm a Brazilian Full-Stack developer, focusing on creating and improving Open So
 ## DevOps & Infrastructure
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=docker,linux,windows,Android" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,windows,apple" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48" />
   </a>
 </p>
+
 
 ## Tools
   
