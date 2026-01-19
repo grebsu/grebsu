@@ -13,9 +13,7 @@ i'm a Brazilian Full-Stack developer, focusing on creating and improving Open So
 
 ## Goals & Ambitions
 
-* **Career Focus:** Land an **international** job as a **Junior Full-Stack Developer** 💻.
 * **Public Exam Preparation:** Achieve approval for the **Auditor Fiscal** (Tax Auditor) public service position, utilizing my technical background to master the required IT knowledge areas 📜.
-* **Platform Synchronization:** Finalize the complete synchronization between the **mobile and desktop** versions of the **Ouroboros** project 🔄.
 * **Open Source Contribution:** Actively contribute to relevant **open-source projects** 🌐.
 * **Full-Stack Skill Enhancement:** Significantly improve my **mobile and web** (full-stack) development skills 🚀.
 * **Cybersecurity Certification:** Obtain key certifications in **Cyber Security** 🔒.
